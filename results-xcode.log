@@ -1,0 +1,250 @@
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 3953ms
+./dive.js items: 185166
+./dive.js process.hrtime: 3953552815 nanoseconds
+./dive.js rss: 64036864
+./dive.js heapTotal: 64036864
+./dive.js heapUsed: 64036864
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11330ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11330565984 nanoseconds
+./scanfs.js rss: 8654848
+./scanfs.js heapTotal: 8654848
+./scanfs.js heapUsed: 8654848
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7363ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7362657885 nanoseconds
+./wrench.js rss: 72388608
+./wrench.js heapTotal: 72388608
+./wrench.js heapUsed: 72388608
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 3995ms
+./dive.js items: 185166
+./dive.js process.hrtime: 3995546675 nanoseconds
+./dive.js rss: 64065536
+./dive.js heapTotal: 64065536
+./dive.js heapUsed: 64065536
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11697ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11697278497 nanoseconds
+./scanfs.js rss: 8523776
+./scanfs.js heapTotal: 8523776
+./scanfs.js heapUsed: 8523776
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7676ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7675693314 nanoseconds
+./wrench.js rss: 70172672
+./wrench.js heapTotal: 70172672
+./wrench.js heapUsed: 70172672
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4133ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4132783148 nanoseconds
+./dive.js rss: 66301952
+./dive.js heapTotal: 66301952
+./dive.js heapUsed: 66301952
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11521ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11521779637 nanoseconds
+./scanfs.js rss: 8421376
+./scanfs.js heapTotal: 8421376
+./scanfs.js heapUsed: 8421376
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7608ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7607472265 nanoseconds
+./wrench.js rss: 73216000
+./wrench.js heapTotal: 73216000
+./wrench.js heapUsed: 73216000
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4158ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4157285113 nanoseconds
+./dive.js rss: 64573440
+./dive.js heapTotal: 64573440
+./dive.js heapUsed: 64573440
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11896ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11895388799 nanoseconds
+./scanfs.js rss: 8744960
+./scanfs.js heapTotal: 8744960
+./scanfs.js heapUsed: 8744960
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7368ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7367866345 nanoseconds
+./wrench.js rss: 71987200
+./wrench.js heapTotal: 71987200
+./wrench.js heapUsed: 71987200
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4024ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4024266958 nanoseconds
+./dive.js rss: 62328832
+./dive.js heapTotal: 62328832
+./dive.js heapUsed: 62328832
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11392ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11392835759 nanoseconds
+./scanfs.js rss: 8605696
+./scanfs.js heapTotal: 8605696
+./scanfs.js heapUsed: 8605696
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7341ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7341132321 nanoseconds
+./wrench.js rss: 72556544
+./wrench.js heapTotal: 72556544
+./wrench.js heapUsed: 72556544
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 3973ms
+./dive.js items: 185166
+./dive.js process.hrtime: 3972208306 nanoseconds
+./dive.js rss: 63156224
+./dive.js heapTotal: 63156224
+./dive.js heapUsed: 63156224
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11371ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11371383668 nanoseconds
+./scanfs.js rss: 8495104
+./scanfs.js heapTotal: 8495104
+./scanfs.js heapUsed: 8495104
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7390ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7389996314 nanoseconds
+./wrench.js rss: 73031680
+./wrench.js heapTotal: 73031680
+./wrench.js heapUsed: 73031680
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 3997ms
+./dive.js items: 185166
+./dive.js process.hrtime: 3996689310 nanoseconds
+./dive.js rss: 63279104
+./dive.js heapTotal: 63279104
+./dive.js heapUsed: 63279104
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11483ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11483192989 nanoseconds
+./scanfs.js rss: 8761344
+./scanfs.js heapTotal: 8761344
+./scanfs.js heapUsed: 8761344
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7382ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7381370705 nanoseconds
+./wrench.js rss: 69283840
+./wrench.js heapTotal: 69283840
+./wrench.js heapUsed: 69283840
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4028ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4027769737 nanoseconds
+./dive.js rss: 61755392
+./dive.js heapTotal: 61755392
+./dive.js heapUsed: 61755392
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11598ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11598535620 nanoseconds
+./scanfs.js rss: 8687616
+./scanfs.js heapTotal: 8687616
+./scanfs.js heapUsed: 8687616
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7529ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7529932521 nanoseconds
+./wrench.js rss: 68837376
+./wrench.js heapTotal: 68837376
+./wrench.js heapUsed: 68837376
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4068ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4068661169 nanoseconds
+./dive.js rss: 63049728
+./dive.js heapTotal: 63049728
+./dive.js heapUsed: 63049728
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11362ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11362454285 nanoseconds
+./scanfs.js rss: 8491008
+./scanfs.js heapTotal: 8491008
+./scanfs.js heapUsed: 8491008
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7451ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7451184606 nanoseconds
+./wrench.js rss: 70082560
+./wrench.js heapTotal: 70082560
+./wrench.js heapUsed: 70082560
+
+
+./dive.js dir: /Applications/Xcode.app/
+./dive.js time: 4046ms
+./dive.js items: 185166
+./dive.js process.hrtime: 4045703943 nanoseconds
+./dive.js rss: 63610880
+./dive.js heapTotal: 63610880
+./dive.js heapUsed: 63610880
+
+./scanfs.js dir: /Applications/Xcode.app/
+./scanfs.js time: 11289ms
+./scanfs.js items: 185167
+./scanfs.js process.hrtime: 11289141792 nanoseconds
+./scanfs.js rss: 8613888
+./scanfs.js heapTotal: 8613888
+./scanfs.js heapUsed: 8613888
+
+./wrench.js dir: /Applications/Xcode.app/
+./wrench.js time: 7419ms
+./wrench.js items: 185166
+./wrench.js process.hrtime: 7418602681 nanoseconds
+./wrench.js rss: 63086592
+./wrench.js heapTotal: 63086592
+./wrench.js heapUsed: 63086592
+
