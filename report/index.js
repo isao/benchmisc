@@ -5,8 +5,11 @@ var fs = require('fs'),
     sums = {};
 
 
+// parse lines like:
+//    <src> <metric/type> <number> <...ignored>
+// into data/sums objects like {src:{type:<sum|array>}}
 function parse() {
-     var line, col;
+     var line, col, src, type, num;
 
      while (line = liner.read()) {
         col = line.split(/:?\s+/),
@@ -24,40 +27,43 @@ function parse() {
                 data[src][type] = [];
                 sums[src][type] = 0;
             }
+
             data[src][type].push(num);
             sums[src][type] += num;
         }
     }
 }
 
+// make a table for each metric/type of src, average, % worse than minimum
 function report() {
     var srcs = Object.keys(data),
-        table;
+        types = Object.keys(data[srcs[0]]);
 
-    srcs.forEach(function(src) {
-        var types = Object.keys(data[src]),
-            row = [src];
+    types.forEach(function(type) {
+        var table = new Table({head: ['src', type, 'worse by'], compact: true}),
+            row = [],
+            min = Infinity;
 
-        if (!table) {
-            table = new Table({head:['src'].concat(types)});
-        }
-
-        types.forEach(function(type) {
-            row.push(Math.round(sums[src][type] / data[src][type].length));
+        // get averages
+        srcs.forEach(function(src) {
+            var average = Math.round(sums[src][type] / data[src][type].length);
+            min = Math.min(min, average);
+            table.push([src, average]);
         });
 
-        table.push(row);
+        // append % worse compared to min, onto each row
+        table.forEach(function(row, i) {
+            var percent = (row[1] - min) / row[1];
+            row.push(Math.round(percent * 100) + '%');
+        });
+
+        console.log(table.toString());
     });
-
-
-    console.log(table.toString());
 }
 
 liner.on('readable', parse);
 liner.on('end', report);
 fs.createReadStream(process.argv[2]).pipe(liner)
-
-
 
 /*
 
