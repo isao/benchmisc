@@ -2,7 +2,10 @@ var fs = require('fs'),
     Table = require('cli-table'),
     liner = require('./liner'),
     data = {},
-    sums = {};
+    sums = {},
+
+    input = process.argv[2] ?
+        fs.createReadStream(process.argv[2]) : process.stdin;
 
 
 // parse lines like:
@@ -34,7 +37,7 @@ function parse() {
     }
 }
 
-// make a table for each metric/type of src, average, % worse than minimum
+// make a table for each metric/type showing src, average, % worse than minimum
 function report() {
     var srcs = Object.keys(data),
         types = Object.keys(data[srcs[0]]);
@@ -67,7 +70,7 @@ function report() {
 
 liner.on('readable', parse);
 liner.on('end', report);
-fs.createReadStream(process.argv[2]).pipe(liner)
+input.pipe(liner);
 
 /*
 
