@@ -4,13 +4,15 @@ var fs = require('fs'),
     data = {},
     sums = {},
 
+    // input is a pathname from argv, or stdin
     input = process.argv[2] ?
         fs.createReadStream(process.argv[2]) : process.stdin;
 
 
-// parse lines like:
+// parse lines from file or stdin like:
 //    <src> <metric/type> <number> <...ignored>
-// into data/sums objects like {src:{type:<sum|array>}}
+// ...into data/sums objects like {src:{type:<sum|array>}}
+// blank lines, and lines without integers in the 3rd column are ignored
 function parse() {
      var line, col, src, type, num;
 
