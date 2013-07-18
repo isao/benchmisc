@@ -40,7 +40,11 @@ function report() {
         types = Object.keys(data[srcs[0]]);
 
     types.forEach(function(type) {
-        var table = new Table({head: ['src', type, 'worse by'], compact: true}),
+        var opts = {
+                head: ['src', type, 'worse by'],
+                colAligns: ['left', 'right', 'right']
+            },
+            table = new Table(opts),
             row = [],
             min = Infinity;
 
