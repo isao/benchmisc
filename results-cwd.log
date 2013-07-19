@@ -1,250 +1,220 @@
 
-./dive.js dir: .
-./dive.js time: 11ms
-./dive.js items: 201
-./dive.js process.hrtime: 9937347 nanoseconds
-./dive.js rss: 1396736
-./dive.js heapTotal: 1396736
-./dive.js heapUsed: 1396736
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 47735139 nanoseconds
+dive rss: 4997120
+dive heapTotal: 3129088
+dive heapUsed: 508232
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 19618604 nanoseconds
-./scanfs.js rss: 1683456
-./scanfs.js heapTotal: 1683456
-./scanfs.js heapUsed: 1683456
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 97722182 nanoseconds
+scanfs rss: 5926912
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20198184 nanoseconds
-./wrench.js rss: 2150400
-./wrench.js heapTotal: 2150400
-./wrench.js heapUsed: 2150400
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 79782463 nanoseconds
+wrench rss: 7577600
+wrench heapTotal: 4161024
+wrench heapUsed: 552416
 
 
-./dive.js dir: .
-./dive.js time: 10ms
-./dive.js items: 201
-./dive.js process.hrtime: 9986948 nanoseconds
-./dive.js rss: 1396736
-./dive.js heapTotal: 1396736
-./dive.js heapUsed: 1396736
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42352915 nanoseconds
+dive rss: 4583424
+dive heapTotal: 3129088
+dive heapUsed: 508440
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 20111980 nanoseconds
-./scanfs.js rss: 1953792
-./scanfs.js heapTotal: 1953792
-./scanfs.js heapUsed: 1953792
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 98591499 nanoseconds
+scanfs rss: 6062080
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20163597 nanoseconds
-./wrench.js rss: 2334720
-./wrench.js heapTotal: 2334720
-./wrench.js heapUsed: 2334720
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 75504071 nanoseconds
+wrench rss: 7421952
+wrench heapTotal: 4161024
+wrench heapUsed: 552384
 
 
-./dive.js dir: .
-./dive.js time: 11ms
-./dive.js items: 201
-./dive.js process.hrtime: 10158981 nanoseconds
-./dive.js rss: 1396736
-./dive.js heapTotal: 1396736
-./dive.js heapUsed: 1396736
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42895901 nanoseconds
+dive rss: 4907008
+dive heapTotal: 3129088
+dive heapUsed: 508440
 
-./scanfs.js dir: .
-./scanfs.js time: 23ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 22556442 nanoseconds
-./scanfs.js rss: 1880064
-./scanfs.js heapTotal: 1880064
-./scanfs.js heapUsed: 1880064
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 96524815 nanoseconds
+scanfs rss: 6250496
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 21ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20620865 nanoseconds
-./wrench.js rss: 2392064
-./wrench.js heapTotal: 2392064
-./wrench.js heapUsed: 2392064
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 72305483 nanoseconds
+wrench rss: 7299072
+wrench heapTotal: 4161024
+wrench heapUsed: 551984
 
 
-./dive.js dir: .
-./dive.js time: 11ms
-./dive.js items: 201
-./dive.js process.hrtime: 10281439 nanoseconds
-./dive.js rss: 1417216
-./dive.js heapTotal: 1417216
-./dive.js heapUsed: 1417216
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42653884 nanoseconds
+dive rss: 4399104
+dive heapTotal: 3129088
+dive heapUsed: 508072
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 20798165 nanoseconds
-./scanfs.js rss: 1941504
-./scanfs.js heapTotal: 1941504
-./scanfs.js heapUsed: 1941504
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 96585040 nanoseconds
+scanfs rss: 6221824
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 22ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 22507032 nanoseconds
-./wrench.js rss: 2510848
-./wrench.js heapTotal: 2510848
-./wrench.js heapUsed: 2510848
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 72745894 nanoseconds
+wrench rss: 7401472
+wrench heapTotal: 4161024
+wrench heapUsed: 552344
 
 
-./dive.js dir: .
-./dive.js time: 11ms
-./dive.js items: 201
-./dive.js process.hrtime: 10171986 nanoseconds
-./dive.js rss: 1380352
-./dive.js heapTotal: 1380352
-./dive.js heapUsed: 1380352
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 41835199 nanoseconds
+dive rss: 4395008
+dive heapTotal: 3129088
+dive heapUsed: 508200
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 19714770 nanoseconds
-./scanfs.js rss: 1818624
-./scanfs.js heapTotal: 1818624
-./scanfs.js heapUsed: 1818624
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 96287339 nanoseconds
+scanfs rss: 6139904
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20261963 nanoseconds
-./wrench.js rss: 2240512
-./wrench.js heapTotal: 2240512
-./wrench.js heapUsed: 2240512
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 72573651 nanoseconds
+wrench rss: 7274496
+wrench heapTotal: 4161024
+wrench heapUsed: 552472
 
 
-./dive.js dir: .
-./dive.js time: 10ms
-./dive.js items: 201
-./dive.js process.hrtime: 10045310 nanoseconds
-./dive.js rss: 1396736
-./dive.js heapTotal: 1396736
-./dive.js heapUsed: 1396736
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42674082 nanoseconds
+dive rss: 4624384
+dive heapTotal: 3129088
+dive heapUsed: 507808
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 19876296 nanoseconds
-./scanfs.js rss: 1638400
-./scanfs.js heapTotal: 1638400
-./scanfs.js heapUsed: 1638400
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 99192788 nanoseconds
+scanfs rss: 5971968
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 21ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20500663 nanoseconds
-./wrench.js rss: 2293760
-./wrench.js heapTotal: 2293760
-./wrench.js heapUsed: 2293760
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 73492248 nanoseconds
+wrench rss: 7376896
+wrench heapTotal: 4161024
+wrench heapUsed: 552360
 
 
-./dive.js dir: .
-./dive.js time: 10ms
-./dive.js items: 201
-./dive.js process.hrtime: 10223398 nanoseconds
-./dive.js rss: 1417216
-./dive.js heapTotal: 1417216
-./dive.js heapUsed: 1417216
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42652310 nanoseconds
+dive rss: 4407296
+dive heapTotal: 3129088
+dive heapUsed: 508016
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 20039983 nanoseconds
-./scanfs.js rss: 1761280
-./scanfs.js heapTotal: 1761280
-./scanfs.js heapUsed: 1761280
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 98084696 nanoseconds
+scanfs rss: 6139904
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20566493 nanoseconds
-./wrench.js rss: 2412544
-./wrench.js heapTotal: 2412544
-./wrench.js heapUsed: 2412544
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 72443862 nanoseconds
+wrench rss: 7282688
+wrench heapTotal: 4161024
+wrench heapUsed: 552400
 
 
-./dive.js dir: .
-./dive.js time: 12ms
-./dive.js items: 201
-./dive.js process.hrtime: 11539196 nanoseconds
-./dive.js rss: 1634304
-./dive.js heapTotal: 1634304
-./dive.js heapUsed: 1634304
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 41821410 nanoseconds
+dive rss: 4595712
+dive heapTotal: 3129088
+dive heapUsed: 508360
 
-./scanfs.js dir: .
-./scanfs.js time: 19ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 18972231 nanoseconds
-./scanfs.js rss: 1703936
-./scanfs.js heapTotal: 1703936
-./scanfs.js heapUsed: 1703936
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 100049239 nanoseconds
+scanfs rss: 6041600
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 19994669 nanoseconds
-./wrench.js rss: 2244608
-./wrench.js heapTotal: 2244608
-./wrench.js heapUsed: 2244608
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 73738023 nanoseconds
+wrench rss: 7303168
+wrench heapTotal: 4161024
+wrench heapUsed: 552344
 
 
-./dive.js dir: .
-./dive.js time: 10ms
-./dive.js items: 201
-./dive.js process.hrtime: 10243727 nanoseconds
-./dive.js rss: 1486848
-./dive.js heapTotal: 1486848
-./dive.js heapUsed: 1486848
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 43048431 nanoseconds
+dive rss: 4694016
+dive heapTotal: 3129088
+dive heapUsed: 507808
 
-./scanfs.js dir: .
-./scanfs.js time: 21ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 20133205 nanoseconds
-./scanfs.js rss: 1716224
-./scanfs.js heapTotal: 1716224
-./scanfs.js heapUsed: 1716224
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 96941706 nanoseconds
+scanfs rss: 6004736
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20254949 nanoseconds
-./wrench.js rss: 2379776
-./wrench.js heapTotal: 2379776
-./wrench.js heapUsed: 2379776
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 72136132 nanoseconds
+wrench rss: 7311360
+wrench heapTotal: 4161024
+wrench heapUsed: 552488
 
 
-./dive.js dir: .
-./dive.js time: 10ms
-./dive.js items: 201
-./dive.js process.hrtime: 10059768 nanoseconds
-./dive.js rss: 1376256
-./dive.js heapTotal: 1376256
-./dive.js heapUsed: 1376256
+dive dir: /Users/isao/Desktop/benchmisc
+dive items: 1657
+dive process.hrtime: 42036917 nanoseconds
+dive rss: 4374528
+dive heapTotal: 3129088
+dive heapUsed: 508016
 
-./scanfs.js dir: .
-./scanfs.js time: 20ms
-./scanfs.js items: 202
-./scanfs.js process.hrtime: 19960538 nanoseconds
-./scanfs.js rss: 1667072
-./scanfs.js heapTotal: 1667072
-./scanfs.js heapUsed: 1667072
+scanfs dir: /Users/isao/Desktop/benchmisc
+scanfs items: 1658
+scanfs process.hrtime: 96461374 nanoseconds
+scanfs rss: 6037504
+scanfs heapTotal: 3129088
+scanfs heapUsed: 540768
 
-./wrench.js dir: .
-./wrench.js time: 20ms
-./wrench.js items: 201
-./wrench.js process.hrtime: 20342447 nanoseconds
-./wrench.js rss: 2465792
-./wrench.js heapTotal: 2465792
-./wrench.js heapUsed: 2465792
+wrench dir: /Users/isao/Desktop/benchmisc
+wrench items: 1657
+wrench process.hrtime: 73230797 nanoseconds
+wrench rss: 7303168
+wrench heapTotal: 4161024
+wrench heapUsed: 552416
 
