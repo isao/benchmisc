@@ -7,7 +7,7 @@ dir=$(cd $(dirname $0) && pwd)
 subjectdir=${1:-$dir}
 
 # values correspond to js scripts in ./runners
-runners='dive scanfs wrench'
+runners='dive scanfs scanfs-ignoregit wrench'
 
 run() {
     for r in $runners
