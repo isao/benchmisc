@@ -16,7 +16,7 @@ console.time(module + ' time');
 m0 = process.memoryUsage();
 t0 = process.hrtime();
 
-require(module)(dir, function(err, count) {
+require('./runners/' + module)(dir, function(err, count) {
 
     tdelta = process.hrtime(t0);
     console.timeEnd(module + ' time');
@@ -30,6 +30,6 @@ require(module)(dir, function(err, count) {
 
     console.log('%s process.hrtime: %d nanoseconds', module, tdelta[0] * 1e9 + tdelta[1]);
     console.log(module, 'rss:', mdelta.rss);
-    console.log(module, 'heapTotal:', mdelta.rss);
-    console.log(module, 'heapUsed:', mdelta.rss);
+    console.log(module, 'heapTotal:', mdelta.heapTotal);
+    console.log(module, 'heapUsed:', mdelta.heapUsed);
 });

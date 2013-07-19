@@ -1,6 +1,10 @@
+#!/usr/bin/env node
+
 var fs = require('fs'),
     Table = require('cli-table'),
     liner = require('./liner'),
+
+    skip = {items:null, time:null},
     data = {},
     sums = {},
 
@@ -20,14 +24,14 @@ function parse() {
         col = line.split(/:?\s+/),
         src = col[0],
         type = col[1],
-        num = parseInt(col[2]);
+        num = parseInt(col[2], 10);
 
         if (!data[src]) {
             data[src] = {};
             sums[src] = {};
         }
 
-        if (('items' !== type) && (num > 0)) {
+        if (!(type in skip) && (num > 0)) {
             if (!data[src][type]) {
                 data[src][type] = [];
                 sums[src][type] = 0;

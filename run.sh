@@ -1,18 +1,23 @@
 #!/bin/sh -e
 
-subjectdir=${1:-'.'}
-runners="./dive.js ./scanfs.js ./wrench.js"
+# normalize path to this file's parent directory
+dir=$(cd $(dirname $0) && pwd)
 
+# 1st argument is directory to walk/scan, defaults to this dir
+subjectdir=${1:-$dir}
+
+# values correspond to js scripts in ./runners
+runners='dive scanfs wrench'
 
 run() {
     for r in $runners
-    do 
+    do
         echo
         echo "$r dir: $subjectdir"
         #time node --expose-gc run.js $r $subjectdir
-        node --expose-gc run.js $r $subjectdir
+        node --expose-gc $dir/run.js $r $subjectdir
     done
-    echo	
+    echo
 }
 
 for i in {0..9}
