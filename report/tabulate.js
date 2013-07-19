@@ -24,14 +24,15 @@ function parse() {
         col = line.split(/:?\s+/),
         src = col[0],
         type = col[1],
-        num = parseInt(col[2], 10);
+        num = (col[2] != null) && parseInt(col[2], 10);
 
-        if (!data[src]) {
-            data[src] = {};
-            sums[src] = {};
-        }
+        if (!skip.hasOwnProperty(type) && (num === num)) {
 
-        if (!(type in skip) && (num > 0)) {
+            if (!data[src]) {
+                data[src] = {};
+                sums[src] = {};
+            }
+
             if (!data[src][type]) {
                 data[src][type] = [];
                 sums[src][type] = 0;
