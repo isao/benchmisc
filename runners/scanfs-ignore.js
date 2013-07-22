@@ -8,7 +8,7 @@ function onerr(err) {
 }
 
 function main(dir, cb) {
-    var scan = new Scan('.git');
+    var scan = new Scan(['.git', 'node_modules']);
     scan.on('error', onerr);
     scan.on('done', cb);
     scan.relatively(dir);
