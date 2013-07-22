@@ -1,0 +1,330 @@
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 771ms
+dive items: 36827
+dive process.hrtime: 770737725 nanoseconds
+dive rss: 49790976
+dive heapTotal: 39712768
+dive heapUsed: 121704
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1730ms
+scanfs items: 36828
+scanfs process.hrtime: 1730021423 nanoseconds
+scanfs rss: 39219200
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 202ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 201844714 nanoseconds
+scanfs-ignore rss: 6950912
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1541ms
+wrench items: 36827
+wrench process.hrtime: 1541328065 nanoseconds
+wrench rss: 42770432
+wrench heapTotal: 32489216
+wrench heapUsed: 159984
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 807ms
+dive items: 36827
+dive process.hrtime: 806560321 nanoseconds
+dive rss: 48353280
+dive heapTotal: 38680832
+dive heapUsed: 121328
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1871ms
+scanfs items: 36828
+scanfs process.hrtime: 1870575560 nanoseconds
+scanfs rss: 39120896
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 212ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 212062422 nanoseconds
+scanfs-ignore rss: 7045120
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1591ms
+wrench items: 36827
+wrench process.hrtime: 1590871615 nanoseconds
+wrench rss: 42901504
+wrench heapTotal: 33521152
+wrench heapUsed: 139672
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 801ms
+dive items: 36827
+dive process.hrtime: 801694025 nanoseconds
+dive rss: 49356800
+dive heapTotal: 38680832
+dive heapUsed: 121216
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1739ms
+scanfs items: 36828
+scanfs process.hrtime: 1739223964 nanoseconds
+scanfs rss: 39067648
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 201ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 201098647 nanoseconds
+scanfs-ignore rss: 7024640
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1546ms
+wrench items: 36827
+wrench process.hrtime: 1545932483 nanoseconds
+wrench rss: 42987520
+wrench heapTotal: 33521152
+wrench heapUsed: 160408
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 771ms
+dive items: 36827
+dive process.hrtime: 771102186 nanoseconds
+dive rss: 48590848
+dive heapTotal: 38680832
+dive heapUsed: 121216
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1773ms
+scanfs items: 36828
+scanfs process.hrtime: 1772596178 nanoseconds
+scanfs rss: 39206912
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 207ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 206919675 nanoseconds
+scanfs-ignore rss: 7135232
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1561ms
+wrench items: 36827
+wrench process.hrtime: 1561116307 nanoseconds
+wrench rss: 42598400
+wrench heapTotal: 32489216
+wrench heapUsed: 159184
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 785ms
+dive items: 36827
+dive process.hrtime: 784572375 nanoseconds
+dive rss: 47931392
+dive heapTotal: 38680832
+dive heapUsed: 121624
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1810ms
+scanfs items: 36828
+scanfs process.hrtime: 1809915231 nanoseconds
+scanfs rss: 39227392
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 204ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 203697895 nanoseconds
+scanfs-ignore rss: 7131136
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1695ms
+wrench items: 36827
+wrench process.hrtime: 1695874622 nanoseconds
+wrench rss: 43487232
+wrench heapTotal: 32489216
+wrench heapUsed: 158328
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 791ms
+dive items: 36827
+dive process.hrtime: 791290070 nanoseconds
+dive rss: 48721920
+dive heapTotal: 38680832
+dive heapUsed: 121632
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1727ms
+scanfs items: 36828
+scanfs process.hrtime: 1727252797 nanoseconds
+scanfs rss: 39211008
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 207ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 206327493 nanoseconds
+scanfs-ignore rss: 7131136
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1574ms
+wrench items: 36827
+wrench process.hrtime: 1574369926 nanoseconds
+wrench rss: 42885120
+wrench heapTotal: 32489216
+wrench heapUsed: 159240
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 798ms
+dive items: 36827
+dive process.hrtime: 798098636 nanoseconds
+dive rss: 48398336
+dive heapTotal: 38680832
+dive heapUsed: 121752
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1779ms
+scanfs items: 36828
+scanfs process.hrtime: 1779478794 nanoseconds
+scanfs rss: 39174144
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 207ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 207064523 nanoseconds
+scanfs-ignore rss: 7131136
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1562ms
+wrench items: 36827
+wrench process.hrtime: 1562176497 nanoseconds
+wrench rss: 43712512
+wrench heapTotal: 33521152
+wrench heapUsed: 160288
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 795ms
+dive items: 36827
+dive process.hrtime: 795313361 nanoseconds
+dive rss: 49414144
+dive heapTotal: 38680832
+dive heapUsed: 121216
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1751ms
+scanfs items: 36828
+scanfs process.hrtime: 1750835085 nanoseconds
+scanfs rss: 39010304
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 207ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 206610660 nanoseconds
+scanfs-ignore rss: 7094272
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1529ms
+wrench items: 36827
+wrench process.hrtime: 1528941973 nanoseconds
+wrench rss: 43208704
+wrench heapTotal: 32489216
+wrench heapUsed: 159240
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 784ms
+dive items: 36827
+dive process.hrtime: 784129282 nanoseconds
+dive rss: 50196480
+dive heapTotal: 38680832
+dive heapUsed: 121032
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1747ms
+scanfs items: 36828
+scanfs process.hrtime: 1747217428 nanoseconds
+scanfs rss: 39264256
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 207ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 206183113 nanoseconds
+scanfs-ignore rss: 7073792
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1531ms
+wrench items: 36827
+wrench process.hrtime: 1530885190 nanoseconds
+wrench rss: 42786816
+wrench heapTotal: 32489216
+wrench heapUsed: 159608
+
+
+dive dir: /Users/isao/Repos/mojito/myfork
+dive time: 771ms
+dive items: 36827
+dive process.hrtime: 771019902 nanoseconds
+dive rss: 47558656
+dive heapTotal: 38680832
+dive heapUsed: 121752
+
+scanfs dir: /Users/isao/Repos/mojito/myfork
+scanfs time: 1778ms
+scanfs items: 36828
+scanfs process.hrtime: 1778219195 nanoseconds
+scanfs rss: 39235584
+scanfs heapTotal: 34553088
+scanfs heapUsed: 117736
+
+scanfs-ignore dir: /Users/isao/Repos/mojito/myfork
+scanfs-ignore time: 208ms
+scanfs-ignore items: 3339
+scanfs-ignore process.hrtime: 207662087 nanoseconds
+scanfs-ignore rss: 7192576
+scanfs-ignore heapTotal: 4161024
+scanfs-ignore heapUsed: 184048
+
+wrench dir: /Users/isao/Repos/mojito/myfork
+wrench time: 1546ms
+wrench items: 36827
+wrench process.hrtime: 1545708240 nanoseconds
+wrench rss: 43229184
+wrench heapTotal: 33521152
+wrench heapUsed: 139672
+
