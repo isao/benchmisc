@@ -52,6 +52,7 @@ function report() {
     types.forEach(function(type) {
         var opts = {
                 head: ['src', type, 'worse by'],
+                colWidths: [12, 12, 10],
                 colAligns: ['left', 'right', 'right']
             },
             table = new Table(opts),
