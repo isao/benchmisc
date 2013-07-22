@@ -29,13 +29,13 @@ The tests scanned a small directory (this repo ~1.6k items) and a large one (XCo
 
 ## recommendations
 
-Use `dive` if: you need every file, and/or directory. Optionally skip items beginning with ".". [dive's api](/isao/benchmisc/blob/master/runners/dive.js) is also clean and well documented.
+Use `dive` if: you need every file, and/or directory. Optionally skip items beginning with ".". [dive's api](https://git.corp.yahoo.com/isao/benchmisc/blob/master/runners/dive.js) is also clean and well documented.
 
-Use `wrench` if: you need every file, and directory, and want other features like recursive file copying or deletion. `wrench` had the poorest performance, and [it's api](/isao/benchmisc/blob/master/runners/wrench.js) is a little clumsy. But it chunks result data in per-directory arrays, which might be handy.
+Use `wrench` if: you need every file, and directory, and want other features like recursive file copying or deletion. `wrench` had the poorest performance, and [it's api](https://git.corp.yahoo.com/isao/benchmisc/blob/master/runners/wrench.js) is a little clumsy. But it chunks result data in per-directory arrays, which might be handy.
 
 Use `scanfs` if: you want control over what things to ignore or classify. You prefer a pub/sub, aka EventEmitter/Stream interface over parameter callbacks.
 
 Although `scanfs` performance was generally second to `dive`'s in an apple-to-apples comparison, it has advantages for other common use-cases. 
 
-* custom control over what you want to ignore (by string or regex). See [these results](/isao/benchmisc/blob/master/results-morepo.txt) where the mojito git repo was scanned, ignoring `,git` and `node_modules`.
+* custom control over what you want to ignore (by string or regex). See [these results](https://git.corp.yahoo.com/isao/benchmisc/blob/master/results-morepo.txt) where the mojito git repo was scanned, ignoring `,git` and `node_modules`.
 * programatic access to the scanned item fs.stat data via a function parameter.
